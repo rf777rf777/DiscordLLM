@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 src/core/apikey.json
 .DS_Store
+src/configs/apikey.json
